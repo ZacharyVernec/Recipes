@@ -12,3 +12,15 @@ meal: main
 chef: Zachary
 time: under 60mins
 servings: 4
+
+ingredients:
+- 1| medium cauliflower
+- 4| garlic cloves
+- 1| teaspoon red pepper flakes
+- 3| tablespoons pickled capers
+- 4| teaspoons roasted almond powder
+- 4| portions of rigatoni *consult package*
+- 1/2| lemon
+- parmesan *grated, to serve*
+- pinch of salt
+- olive oil
