@@ -13,7 +13,7 @@ chef: Zachary
 time: under 60mins
 servings: 4
 
-ingredients: #TODO reorder according to use
+ingredients: 
 - 1| medium cauliflower
 - 4| medium garlic cloves *divided*
 - 5| tablespoons olive oil *divided*
