@@ -43,4 +43,4 @@ directions:
 - Add the pasta and cauliflowers to the pot and mix.
 - Add the juice and zest of the lemon. Add the parsley.
 - Add salt, pepper and additional pasta water to taste.
-- Serve, topped with parmesan, parsley, and possibly any previously used ingredients, to taste.
+- Serve, topped with roasted almond powder, parmesan, and possibly any previously used ingredients, to taste and visual pleasure.
