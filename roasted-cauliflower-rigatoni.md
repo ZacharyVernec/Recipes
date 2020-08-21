@@ -36,14 +36,14 @@ directions:
 - On a large rimmed baking sheet covered in parchement paper, toss cauliflower with 2 tablespoons olive oil, half of the garlic, half of the red pepper flakes, and a pinch of salt and pepper. Make sure cauliflower is in a single layer.
 - Cook cauliflower for 15-20 minutes on center rack, tossing halfway, until golden brown.
 - Cook pasta according to package in generously salted water, until al dente but not more. Drain, reserving around 1 cup of pasta water.
-- While the pasta cooks, if almond powder is not roasted, do so now. Dry-roast powder on a small pan on medium heat until golden brown. Careful not to burn.
+- While the pasta cooks, if almond powder is not pre-roasted, do so now. Dry-roast powder on a small pan on medium heat until golden brown. Careful not to burn. #TODO use same pot as pasta?
 - While the pasta cooks, rinse and dry the capers.
 - While the pasta cooks, roughly chop, scissor, or tear the parsley.
 - In the empty pot in which the pasta was previously cooked, heat 3 tablespoons of olive oil. Add remaining garlic, remaining red pepper flakes, and capers and cook for 1 minute (until garlic is pale golden). In the last 30 seconds, add the capers to crisp. Add around half a cup of pasta water to halt cooking.
 - Add the pasta and cauliflowers to the pot and mix.
-- Add the juice and zest of the lemon. Add the parsley.
-- Add salt, pepper and additional pasta water to taste and texture.
-- Serve, topped with roasted almond powder, parmesan, and possibly any previously used ingredients, to taste and visual pleasure.
+- Add the parsley. Add the juice and zest of the lemon. Mix.
+- Add salt, pepper and additional pasta water to taste and texture. Mix.
+- Serve, topped with roasted almond powder, parmesan, and possibly any previously used ingredients, to taste and appearance.
 
 --- 
 <!-- Below is the description, just write what you want or leave it empty 😁 -->
