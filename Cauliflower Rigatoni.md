@@ -1,17 +1,17 @@
 
 ---
 
-layout: recipe # (this is the layout Jekyll uses to render the file in)
-permalink: recipes/pavlova # (this will be your final, pretty URL)
-title:  "Pavlova" # (making sure we have a good title)
+layout: recipe
+permalink: recipes/roasted-cauliflower-rigatoni
+title:  "Roasted Cauliflower Rigatoni"
 image: pavlova.jpg # (a nice, high-quality image I will carefully select for you)
 imagecredit: "unsplash.com" # (where I'm getting the image above)
-categories: # appetizer baking dressing drink grill healthyish marinade oven pickling quick raw salad sandwich sauce snack soup
-tags: # asian beef bread burger christmas duck french fruit indian italian mexican nuts pasta pork poultry rice seafood thanksgiving vegetarian
-meal: # breakfast brunch dessert main side (choose one that applies)
-chef: diana # (fill this in with your first name and keep the name the same for all your recipes, since each chef has his own collection of recipes)
-time: # under 60mins under 120mins over 120mins (choose one that applies)
-servings: 1 # (this will be served as a baseline for the dynamic scaling)
+categories: original quick
+tags: italian nuts pasta vegetarian
+meal: main
+chef: Zachary
+time: under 60mins
+servings: 4
 
 notes: # (you can add recipe notes here, if you don't have any just delete this whole section and it won't be processed)
 - Separate the egg whites when they’re cold, it’s much easier.
