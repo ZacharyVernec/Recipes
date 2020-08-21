@@ -42,7 +42,7 @@ directions:
 - In the empty pot in which the pasta was previously cooked, heat 3 tablespoons of olive oil. Add remaining garlic, remaining red pepper flakes, and capers and cook for 1 minute (until garlic is pale golden). In the last 30 seconds, add the capers to crisp. Add around half a cup of pasta water to halt cooking.
 - Add the pasta and cauliflowers to the pot and mix.
 - Add the juice and zest of the lemon. Add the parsley.
-- Add salt, pepper and additional pasta water to taste.
+- Add salt, pepper and additional pasta water to taste and texture.
 - Serve, topped with roasted almond powder, parmesan, and possibly any previously used ingredients, to taste and visual pleasure.
 
 --- 
