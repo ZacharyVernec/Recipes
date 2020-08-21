@@ -20,7 +20,7 @@ ingredients: #TODO reorder according to use
 - 3| tablespoons pickled capers #TODO quantify in mL for ease of buying
 - 4| teaspoons roasted almond powder *pre-roasted not necessary*
 - 4| portions of rigatoni *consult package*
-- 1/2| cups of fresh flat-leaf parsley *roughly chopped* #TODO quantify
+- 1/4| cups of fresh flat-leaf parsley *roughly chopped, possibly more* #TODO quantify for ease of buying
 - 1/2| lemon
 - olive oil #TODO quantify
 - salt and pepper
@@ -38,8 +38,9 @@ directions:
 - Cook pasta according to package in generously salted water, until al dente but not more. Drain, reserving around 1 cup of pasta water.
 - While the pasta cooks, if almond powder is not roasted, do so now. Dry-roast powder on a small pan on medium heat until golden brown. Careful not to burn.
 - While the pasta cooks, rinse and dry the capers.
+- While the pasta cooks, roughly chop, scissor, or tear the parsley.
 - In the empty pot in which the pasta was previously cooked, heat 3 tablespoons of olive oil. Add remaining garlic, remaining red pepper flakes, and capers and cook for 1 minute (until garlic is pale golden). In the last 30 seconds, add the capers to crisp. Add around half a cup of pasta water to halt cooking.
 - Add the pasta and cauliflowers to the pot and mix.
-- Add the juice and zest of the lemon. Add half the parsley. #TODO some parmesan
+- Add the juice and zest of the lemon. Add the parsley.
 - Add salt, pepper and additional pasta water to taste.
 - Serve, topped with parmesan, parsley, and possibly any previously used ingredients, to taste.
