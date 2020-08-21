@@ -22,7 +22,7 @@ ingredients: #TODO reorder according to use
 - 4| portions of rigatoni *consult package*
 - 1/4| cups of fresh flat-leaf parsley *roughly chopped, possibly more* #TODO quantify for ease of buying
 - 1/2| lemon
-- olive oil #TODO quantify
+- 5| tablespoons olive oil
 - salt and pepper
 - parmesan *grated, to serve*
 
@@ -33,7 +33,7 @@ directions:
 - Preheat your oven to 450°F (230°C).
 - Prepare cauliflower by removing the stem and cutting into small florets #TODO describe small
 - Mince the garlic.
-- On a large rimmed baking sheet covered in parchement paper, toss cauliflower with 1.5 tablespoons olive oil, half of the garlic, half of the red pepper flakes, and a pinch of salt and pepper. Make sure cauliflower is in a single layer.
+- On a large rimmed baking sheet covered in parchement paper, toss cauliflower with 2 tablespoons olive oil, half of the garlic, half of the red pepper flakes, and a pinch of salt and pepper. Make sure cauliflower is in a single layer.
 - Cook cauliflower for 15-20 minutes on center rack, tossing halfway, until golden brown.
 - Cook pasta according to package in generously salted water, until al dente but not more. Drain, reserving around 1 cup of pasta water.
 - While the pasta cooks, if almond powder is not roasted, do so now. Dry-roast powder on a small pan on medium heat until golden brown. Careful not to burn.
