@@ -15,15 +15,15 @@ servings: 4
 
 ingredients: #TODO reorder according to use
 - 1| medium cauliflower
-- 4| medium garlic cloves
-- 1| teaspoon red pepper flakes
-- 3| tablespoons pickled capers #TODO quantify in mL for ease of buying
-- 4| teaspoons roasted almond powder *pre-roasted not necessary*
+- 4| medium garlic cloves *divided*
+- 5| tablespoons olive oil *divided*
+- 1| teaspoon red pepper flakes *divided*
 - 4| portions of rigatoni *consult package*
+- 4| tablespoons roasted almond powder *pre-roasted not necessary*
+- 3| tablespoons pickled capers #TODO quantify in mL for ease of buying
 - 1/4| cups of fresh flat-leaf parsley *roughly chopped, possibly more* #TODO quantify for ease of buying
 - 1/2| lemon
-- 5| tablespoons olive oil
-- salt and pepper
+- salt and pepper *to taste*
 - parmesan *grated, to serve*
 
 notes: 
